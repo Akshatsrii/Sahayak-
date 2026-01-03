@@ -1,40 +1,40 @@
 # Sahayak-
 SAHAYAK is an AI-powered digital healthcare platform that provides symptom checking, medical history tracking, emergency assistance,  and institutional health analytics.
-🏥 SAHAYAK – AI-Powered Healthcare Platform
+SAHAYAK – AI-Powered Healthcare Platform
 
-🚀 Features
-👤 User-Focused Healthcare
-- 🤖 **AI Symptom Checker** with intelligent health guidance
-- 🧠 **Medical History Tracking** with saved AI reports
-- 🌿 **Ayurveda Wellness Guide** for natural remedies
-- ❤️ **Women’s Health Dashboard** with cycle tracking
-- 📊 **Health Reports & Analytics**
+ Features
+ User-Focused Healthcare
+- 🤖 AI Symptom Checker** with intelligent health guidance
+- 🧠 Medical History Tracking with saved AI reports
+- 🌿 Ayurveda Wellness Guide for natural remedies
+- ❤️ Women’s Health Dashboard with cycle tracking
+- 📊 Health Reports & Analytics
 - 🔔 Smart notifications & reminders
 
-🚨 Emergency Support
-- 📞 One-tap **Emergency Calling**
-- 🩺 **First Aid Quick Guides**
+ Emergency Support
+- 📞 One-tap Emergency Calling
+- 🩺 First Aid Quick Guides
 - 🚑 Nearby hospital locator & ambulance tracking
 - 💬 Emergency doctor consultation (UI-ready)
 
-🏫 Institutional (B2B) Dashboard
+Institutional (B2B) Dashboard
 - 🏢 Institute health analytics
 - 👥 Student health overview
 - 📈 Aggregate health reports
 - 💳 Subscription & billing handled securely via Clerk
 
- 🔐 Security & Privacy
-- 🔑 Authentication powered by **Clerk**
+  Security & Privacy
+- 🔑 Authentication powered by Clerk
 - 🔒 Enhanced privacy for sensitive health data
 - 🛡️ Secure role-based access
 
  🛠️ Tech Stack
  Frontend
-- React + TypeScript**
-- Tailwind CSS**
-- ShadCN UI**
-- Lucide Icons**
-- Recharts** (Charts & Analytics)
+- React + TypeScript + Backend
+- Tailwind CSS
+- ShadCN UI
+- Lucide Icons
+- Recharts (Charts & Analytics)
 
  Authentication & Organization Management
 - Clerk
